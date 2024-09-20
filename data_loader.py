@@ -1,2 +1,2 @@
-# Contains classes to handle data loading and processing
+# Contains classes to handle data loading and (pre)processing
 
